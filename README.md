@@ -4,7 +4,7 @@ Brief description of your project goes here.
 
 ## Table of Contents
 
-- [Features](#Newfolder/ex_NO_1.c)
+- [Features](#https://github.com/gauravchhetri100/C-language-Projrct-1/blob/main/New%20folder/ex_NO_1.c)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
