@@ -4,7 +4,7 @@ Brief description of your project goes here.
 
 ## Table of Contents
 
-- [Features](#features)
+- [Features](#Newfolder/ex_NO_1.c)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
